@@ -1,0 +1,17 @@
+Overview CyberConnect
+What is CyberConnect?
+CyberConnect is a decentralized social graph protocol. A social graph describes connections between different individuals and organizations. Centralized social media applications in Web2 lack interoperability each has a different set of isolated data owned by the platforms. Therefore will result in the users having multiple accounts. The goal of CyberConnect is to empower developers to bootstrap their Web3 social applications and also build personalized social experiences for apps.  Their data infrastructure helps store and manage users’ self-sovereign social data and a smart contract protocol for creating on-chain social networks. The smart contract protocol is already live on Ethereum, BNB chain, Arbitrum Nova, and Polygon. 
+
+
+How does it work?
+Profile
+CyberConnect profile is the entry point just like a profile in traditional Web2 social applications. Each profile is an ERC-721 NFT and owns its paid subscribers and content. Every user could also have multiple profiles. Through Link3 on Ethereum, it is possible to mint profiles.
+Content
+Content in CyberConnect could be any creation from the user, issues, or builds.
+All content is in an ERC-721 token called EssenceNFT. The token (content created) can be stored on different storage platforms like IPFS or Arweave, depending on the developer’s desire. To help develop trust and authority, each piece of content is tied to a profile.
+The protocol also offers 3 types of Middleware ProfileMiddleware, CollectMiddleware, and SubscribeMiddleware. With that, every profile owner can include custom functionality on ‘collecting’ conditions (e.g. pay to collect or hold NFT to collect) and token nature (e.g. transferable or non-transferable). A case in point would be Link3. The Web3 social network of verifiable identities utilizes EssenceNFT to enable organization profiles to issue attendance badges/SBTs.
+
+ Subscribe
+Web3 users can enable paid subscriptions to their profiles, each subscriber will be issued a SubscribeNFT upon a successful subscription.
+
+ 
